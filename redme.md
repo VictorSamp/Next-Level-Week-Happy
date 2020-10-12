@@ -1,4 +1,4 @@
-#Dia 1 - Projeto Next Level Week da Rocketseat
+Dia 1 - Projeto Next Level Week da Rocketseat
 
 
 
